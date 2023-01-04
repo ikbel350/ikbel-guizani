@@ -2,8 +2,8 @@
 This projet is developed during Labs of the subject IoT Architecture
 
 By:
-...........name of student 1 Nouha Henchir
-...........name of student 2 Ikbel Guizani
+name of student 1 Nouha Henchir
+name of student 2 Ikbel Guizani
 Under-graduated students, 
 Embadded system and IoT Bachelors 
 
