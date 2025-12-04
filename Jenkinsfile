@@ -13,6 +13,7 @@ pipeline {
             }
         }
         stage('Deploy') {
+            steps {
             
                 echo "Étape Deploy : OK"
             }
