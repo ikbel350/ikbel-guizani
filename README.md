@@ -39,4 +39,3 @@ acceleometre
 
 
 Installation and prepartion instrcutions: 
-Arduino IDE
